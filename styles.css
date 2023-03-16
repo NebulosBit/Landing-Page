@@ -1,3 +1,10 @@
+:root{
+  --dark-color: #1F2937;
+  --pre-text: #F9FAF8;
+  --sec-text: #E5E7EB;
+  --highlight-color: #3882F6;
+}
+
 *{
   margin: 0;
   padding: 0;
