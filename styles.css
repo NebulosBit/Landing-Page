@@ -10,3 +10,31 @@
   padding: 0;
   box-shadow: none;
 }
+
+/* navbar styling */
+.navbar{
+  align-items: center;
+  background: var(--dark-color);
+  display: flex;
+  justify-content: space-between;
+  padding: 25px 100px;
+}
+
+.logo{
+  color: var(--pre-text);
+  font-size: 24px;
+}
+
+.unordered-links{
+  display: flex;
+}
+
+.linked-item{
+  color: var(--sec-text);
+  font-size: 18px;
+  margin: 0 25px;
+}
+
+li{
+  list-style: none;
+}
