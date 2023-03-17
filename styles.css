@@ -85,3 +85,26 @@ li{
 }
 
 /* information styling */
+
+.info-header{
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.article-row{
+  display: flex;
+  justify-content: center;
+}
+
+.article{
+  height: 200px;
+  width: 200px;
+  border: 4px solid #3882F6;
+  margin: 5px 20px 0 0;
+}
+
+.article-column p{
+  color: #808080;
+  margin: 5px 0 15px 0;
+}
