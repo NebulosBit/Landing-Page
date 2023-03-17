@@ -88,6 +88,8 @@ li{
 
 .info-header{
   display: flex;
+  font-size: 36px;
+  font-weight: 800;
   justify-content: center;
   margin: 20px 0;
 }
