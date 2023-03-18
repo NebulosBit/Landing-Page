@@ -141,5 +141,7 @@ li{
 .quoted-by{
   display: flex;
   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
   justify-content: flex-end;
 }
