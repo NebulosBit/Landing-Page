@@ -187,3 +187,14 @@ li{
 }
 
 /* footer styling */
+.footer{
+  background: var(--dark-color);
+  padding: 25px 0;
+}
+
+.footer p{
+  color: var(--pre-text);
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  justify-content: center;
+}
