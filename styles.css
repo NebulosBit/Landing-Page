@@ -19,7 +19,7 @@
   background: var(--dark-color);
   display: flex;
   justify-content: space-between;
-  padding: 25px 100px;
+  padding: 25px 375px;
 }
 
 .logo{
@@ -47,7 +47,7 @@ li{
 .hero-container{
   display: flex;
   background: var(--dark-color);
-  padding: 225px 100px;
+  padding: 225px 375px;
   justify-content: space-between;
 }
 
@@ -149,7 +149,7 @@ li{
 /* call to action styling */
 
 .cta-section{
-  padding: 100px 475px;
+  padding: 100px 375px;
 }
 
 .cta-container{
@@ -158,7 +158,7 @@ li{
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
-  padding: 50px 157px;
+  padding: 50px 282px;
 }
 
 .cta-title{
