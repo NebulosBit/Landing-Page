@@ -114,3 +114,19 @@ li{
 }
 
 /* quote styling */
+
+.quote-container{
+  background: var(--sec-text);
+  padding: 0 582px;
+}
+
+.quote{
+  display: flex;
+  font-size: 36px;
+  justify-content: center;
+}
+
+.quoted-by{
+  display: flex;
+  justify-content: flex-end;
+}
